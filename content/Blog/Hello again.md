@@ -1,6 +1,5 @@
 Title: Hello again  
 Date: 2013-07-08  
-Category: Diary  
 Tags: pelican  
 Slug: hello-again  
 Author: Ricardo Rosado  

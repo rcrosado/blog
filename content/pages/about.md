@@ -4,6 +4,7 @@ Category: About
 Slug: about  
 Author: Ricardo Rosado  
 Summary: About Ricardo  
+status: draft
 
 My name is Ricardo Rosado and my professional summary used to be simple. I was a
 veterinary virologist, end of story. Nowadays my profesional summary reads:

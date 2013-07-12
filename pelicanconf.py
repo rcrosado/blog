@@ -6,7 +6,7 @@ AUTHOR = u'Ricardo Rosado'
 SITENAME = u'Ricardo Rosado'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Oslo'
 
 DEFAULT_LANG = u'en'
 
@@ -18,12 +18,12 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+          ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('LinkedIn', 'http://no.linkedin.com/in/rcrosado/'),
+          ('Twitter', 'https://twitter.com/rcrosado'),
+          ('Github', 'https://github.com/rcrosado'),)
 
 DEFAULT_PAGINATION = False
 
